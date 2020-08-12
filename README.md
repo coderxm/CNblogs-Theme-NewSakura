@@ -92,14 +92,14 @@
 
   * 菜单子目录设置
 
-    菜单子目录，在**关于**菜单下添加了子目录,相应的样式可自行修改添加
+     菜单子目录，在**关于**菜单下添加了子目录,相应的样式可自行修改添加!
 
     ```javascript
     let guanyu = '<ul class="sub-menu">' +
-					'<li><a href=" " target="_self"><i class="fa fa-user-o" aria-hidden="true"></i>博主</a></li>' +   //添加关于文章链接
-					'<li><a id="blog_nav_theme" onclick="changeTheme();" ><i class="iconfont icon-taohua" aria-hidden="true"></i> 主题</a></li>' +  //主题/暗黑白昼模式
-					'</ul>';
-			$('#blog_nav_myguanyu').after(guanyu);
+		'<li><a href=" " target="_self"><i class="fa fa-user-o" aria-hidden="true"></i>博主</a></li>' +   //添加关于文章链接
+		'<li><a id="blog_nav_theme" onclick="changeTheme();" ><i class="iconfont icon-taohua" aria-hidden="true"></i> 主题</a></li>' +  //主题/暗黑白昼模式
+		'</ul>';
+		$('#blog_nav_myguanyu').after(guanyu);
     ```
 
 * 脚本设置
