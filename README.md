@@ -3,6 +3,7 @@
 * 如使用了本样式，请给个Star。
 
 ## 项目结构
+ ```
                             |--sidebar.html 侧边栏代码
  |--CNblogs-Theme-NewSakura—|--main.css   自定义css代码
  |							|--main.js    引用js
@@ -10,6 +11,7 @@
  |--img-|--效果1.jpg
  |		|--效果2.jpg
  |README.md
+ ```
  
  有js权限，期间将侧边栏、页脚和css代码粘贴进博客园设置内即可！代码文件内有相应注释，根据它修改即可。
 ## 功能简介
@@ -307,7 +309,7 @@
 ## 微信公众平台
 微信搜索 “小码之光” 关注，里面有加群，可以一起交流！
 
-##项目地址
+## 项目地址
 
 [GitHub地址](https://github.com/coderxm/CNblogs-Theme-NewSakura )
 
