@@ -6,10 +6,10 @@
  ```
                             |--sidebar.html 侧边栏代码
  |--CNblogs-Theme-NewSakura—|--main.css   自定义css代码
- |							|--main.js    引用js
- |							|--foot.html  页脚代码
+ |			    |--main.js    引用js
+ |			    |--foot.html  页脚代码
  |--img-|--效果1.jpg
- |		|--效果2.jpg
+ |	|--效果2.jpg
  |README.md
  ```
  
