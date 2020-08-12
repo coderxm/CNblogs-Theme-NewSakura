@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1597236938438&di=c9a51694bd9cd7e0d18d3cf440e92593&imgtype=0&src=http%3A%2F%2Fgss0.baidu.com%2F9vo3dSag_xI4khGko9WTAnF6hhy%2Fzhidao%2Fpic%2Fitem%2Fa6efce1b9d16fdfacee8dd40b48f8c5495ee7b93.jpg" height="150px" width="150px"/>
+
+[![GitHub release](https://img.shields.io/badge/Release-v1.0.0-green)](https://github.com/coderxm/Cnblogs-Theme-NewSakura/releases)
+[![GitHub contributors](https://img.shields.io/badge/contributors-1-green)](https://github.com/coderxm/Cnblogs-Theme-NewSakura/graphs/contributors)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/coderxm/Cnblogs-Theme-NewSakura/blob/master/LICENSE)
+</div>
+
 # CNblogs-Theme-NewSakura
 * 基于Sakura美化方案改造的博客园样式：NewSakura
 * 如使用了本样式，请给个Star。
