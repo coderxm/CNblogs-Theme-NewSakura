@@ -67,8 +67,9 @@
   $("#navList").append('<li><a id="blog_nav_myyoulian" class="menu"href="https://www.cnblogs.com/coderma/p/1117239.html">友链</a><i></i></li><li><a id="blog_nav_myzanshang" class="menu" href="https://www.cnblogs.com/coderma/p/1133477.html">赞赏</a><i></i></li><li><a id="blog_nav_myguanyu" class="menu" href="">关于</a></li>');
   ```
 
-  * 菜单icon设置
-    就是菜单前的小图标，感兴趣的可以去了解一下[Font awesome](http://fontawesome.dashgame.com/ )
+* 菜单icon设置
+    
+   就是菜单前的小图标，感兴趣的可以去了解一下[Font awesome](http://fontawesome.dashgame.com/ )
 
     ```javascript
             //博客title
@@ -267,12 +268,12 @@
 左上角的logo，修改文字需要到`main.js`里找到以下代码，替换文字即可，如果不喜欢可以注掉,我也觉得没啥好看，main.js里我已经删了！
 
 ```javascript
-	var title = '<div class="site-branding">' +
-					'<span class="logolink moe-mashiro">' +
-					'<ruby><span class="sakuraso">漂泊</span><span class="no">的</span><span class="shironeko">流浪舟</span>' +
-					'<rt class="chinese-font">漂泊的流浪舟</rt></ruby></a></span>' +
-					'</div>'
-			$('body').prepend(title);
+   var title = '<div class="site-branding">' +
+		'<span class="logolink moe-mashiro">' +
+		'<ruby><span class="sakuraso">漂泊</span><span class="no">的</span><span class="shironeko">流浪舟</span>' +
+		'<rt class="chinese-font">漂泊的流浪舟</rt></ruby></a></span>' +
+		'</div>'
+		$('body').prepend(title);
 ```
 
 ### 页面滚动进度条
